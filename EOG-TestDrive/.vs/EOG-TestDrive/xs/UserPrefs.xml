@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{8A776EC2-08B8-221B-DF24-02FD3DDAD856}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Ball/Movement_Ball.cs">
+    <Files>
+      <File FileName="Assets/PositionIndicatorManager.cs" Line="20" Column="35" />
+      <File FileName="Assets/PositionIndicator_Player.cs" />
+      <File FileName="Assets/Scripts/Blocks/Block.cs" />
+      <File FileName="Assets/BlastZone.cs" />
+      <File FileName="Assets/Scripts/Ball/Movement_Ball.cs" Line="9" Column="7" />
+      <File FileName="Assets/Scripts/Player/Movement_Player.cs" />
+      <File FileName="Assets/Scripts/Ball/Attack_Ball.cs" />
+      <File FileName="Assets/InputTester.cs" />
+      <File FileName="Assets/StartGame.cs" />
+      <File FileName="Assets/ControlAngle.cs" Line="46" Column="89" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="177b6340-1885-427d-8ffa-c5d771bc0088" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
